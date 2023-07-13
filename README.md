@@ -31,5 +31,5 @@ Before we get started, let's just preface this with most, if not all, of this in
 - Filament Print Settings
   - In order to change the filament settings within the slicer, you have to press the small box next to the filament within the slicer
   
-![Filament Print Settings](https://raw.githubusercontent.com/SCLutton/SCLutton.github.io/main/X1C%20Print%20Settings.png)
+![Filament Print Settings](https://raw.githubusercontent.com/uaf-t3/makerspace-bambu-cheatsheet/main/X1C_Print_Settings.png)
 
